@@ -1,0 +1,61 @@
+[2022-07-24T15:25:51.691] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:27:07.848] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:28:02.161] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:31:18.016] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:32:19.242] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:33:17.163] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:38:11.974] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:39:41.950] [ERROR] error - ***数据库连接失败***
+[2022-07-24T15:40:43.984] [ERROR] error - ***数据库连接失败***
+[2022-07-24T16:00:04.174] [ERROR] error - ***数据库连接失败***
+[2022-07-24T16:00:54.198] [ERROR] error - ***数据库连接失败***
+[2022-07-24T16:14:25.560] [ERROR] error - ***数据库连接失败***
+[2022-07-24T16:16:02.031] [ERROR] error - ***数据库连接失败***
+[2022-07-24T16:32:52.108] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
+[2022-07-24T16:33:04.358] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
+[2022-07-24T16:33:07.127] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
+[2022-07-24T16:33:15.718] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
+[2022-07-24T17:03:56.213] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
+[2022-07-24T17:03:56.938] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Function.Model.$wrapCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\model.js:5087:32)
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4510:21
+    at C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at model.Query.exec (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4509:10)
+    at model.Query.Query.then (C:\Users\1\Desktop\company-admin\manager-server\node_modules\mongoose\lib\query.js:4592:15)
