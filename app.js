@@ -15,6 +15,8 @@ const menus = require('./routes/menus')
 const roles = require('./routes/roles')
 const depts = require('./routes/depts')
 const leaves = require('./routes/leaves')
+const cors = require('@koa/cors');
+
 // error handler
 onerror(app)
 
@@ -31,6 +33,9 @@ app.use(require('koa-static')(__dirname + '/public'))
 app.use(views(__dirname + '/views', {
   extension: 'pug'
 }))
+
+// cor 
+app.use(cors());
 
 // logger
 app.use(async (ctx, next) => {
